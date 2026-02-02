@@ -1,16 +1,58 @@
-## Hi there 👋
+# 👋 Hi, I’m Aman Yadav
 
-<!--
-**aman-yadavvv/aman-yadavvv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **DevOps Enthusiast | Cloud Automation | CI/CD Pipelines | Full-Stack Developer**
 
-Here are some ideas to get you started:
+I’m passionate about building scalable, reliable, and automated systems. I enjoy bridging the gap between development and operations by working with **Docker, Kubernetes, CI/CD workflows, and cloud platforms**.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Automation, monitoring, and collaboration are the pillars of my workflow. I love experimenting with new DevOps tools, optimizing pipelines, and deploying cloud-native applications.
+
+---
+
+## 🛠️ Skills & Tools
+
+### DevOps & Cloud
+- Docker | Kubernetes | Helm
+- GitHub Actions | Jenkins | CI/CD
+- AWS | Terraform | Ansible | Azure
+- Monitoring: Prometheus | Grafana | ELK Stack
+
+### Programming & Web
+- Python | JavaScript | Node.js | Django
+- REST APIs | MongoDB | PostgreSQL
+
+---
+
+## 📦 Projects
+
+Here are some highlights:
+
+- **`dockerized-portfolio`** – Personal portfolio with Docker & CI/CD pipelines.
+- **`django-webapp`** – Full-stack Django app with automated deployments.
+- **`online-shopping-cicd`** – Demo shopping app with CI/CD pipeline setup.
+- **`todo-app-cicd`** – Todo app with Jenkins pipelines for testing & deployment.
+
+*(Check out my repositories for more projects!)*
+
+---
+
+## 📈 GitHub Stats
+
+![Aman’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=aman-yadavvv&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aman-yadavvv&layout=compact&theme=radical)
+
+---
+
+## 🌱 Currently Learning
+- Advanced Kubernetes & Helm charts
+- Terraform modules & cloud automation
+- Observability pipelines (Prometheus, ELK, OpenTelemetry)
+- DevSecOps practices
+
+---
+
+## 🤝 Let’s Connect
+I’m always open to collaboration on **DevOps projects, cloud automation, and full-stack applications**.  
+
+📫 Contact: *your.email@example.com*  
+🌐 Portfolio: *https://yourportfolio.com*
+
