@@ -1,6 +1,4 @@
-# 👋 Hi, I’m Aman Yadav
-
-💻 **DevOps/DevSecOps Enthusiast | Cloud Automation | AWS CLoud | CI/CD Pipelines **
+# 💻 **DevOps/DevSecOps Enthusiast | Cloud Automation | AWS CLoud | CI/CD Pipelines **
 
 I’m passionate about building scalable, reliable, and automated systems. I enjoy bridging the gap between development and operations by working with **Docker, Kubernetes, CI/CD workflows, and cloud platforms**.  
 
