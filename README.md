@@ -1,7 +1,7 @@
 # 💻 **DevOps | DevSecOps | Cloud(AWS,Azure,Gcp) **
 
-## Current Mood 🤖
-![DevOps Meme](https://raw.githubusercontent.com/aman-yadavvv/your-repo/main/assets/devops-meme.gif)
+![DevOps Meme](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXF0cXpzMmhvaG1kZXgzaGM5cmVnMWhjM3d2Y3gxNHB1eGpwbXY2ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mCRJDo24UvJMA/giphy.gif)
+
 
 
 
