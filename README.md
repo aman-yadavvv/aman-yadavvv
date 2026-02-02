@@ -1,10 +1,5 @@
 # 💻 **DevOps | DevSecOps | Cloud(AWS,Azure,Gcp) **
 
-![DevOps Meme](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXF0cXpzMmhvaG1kZXgzaGM5cmVnMWhjM3d2Y3gxNHB1eGpwbXY2ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mCRJDo24UvJMA/giphy.gif)
-
-
-
-
 I’m passionate about building scalable, reliable, and automated systems. I enjoy bridging the gap between development and operations by working with **Docker, Kubernetes, CI/CD workflows, and cloud platforms**.  
 
 Automation, monitoring, and collaboration are the pillars of my workflow. I love experimenting with new DevOps tools, optimizing pipelines, and deploying cloud-native applications.
@@ -23,6 +18,8 @@ Automation, monitoring, and collaboration are the pillars of my workflow. I love
 ### Programming & Web
 - Python | JavaScript | Node.js | Django
 - REST APIs | MongoDB | PostgreSQL
+
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXF0cXpzMmhvaG1kZXgzaGM5cmVnMWhjM3d2Y3gxNHB1eGpwbXY2ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mCRJDo24UvJMA/giphy.gif" width="400"/>
 
 ---
 *(Check out my repositories for more projects!)*
