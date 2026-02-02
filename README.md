@@ -1,9 +1,4 @@
-# 💻 **DevOps/DevSecOps Enthusiast | Cloud Automation | AWS CLoud | CI/CD Pipelines **
-
-
-
-https://github.com/user-attachments/assets/583665ef-423d-456c-a668-0a205ed7dc4d
-
+# 💻 **DevOps | DevSecOps | Cloud(AWS,Azure,Gcp) **
 
 
 I’m passionate about building scalable, reliable, and automated systems. I enjoy bridging the gap between development and operations by working with **Docker, Kubernetes, CI/CD workflows, and cloud platforms**.  
