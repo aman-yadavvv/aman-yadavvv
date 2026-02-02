@@ -3,11 +3,10 @@
 <table style="border: 2px solid #ccc; border-radius: 10px; padding: 10px; width: 100%;">
   <tr>
     <td valign="middle" width="60%">
-      <h3>Current Mood 🤖</h3>
+      <h3>Living the DevOps Life</h3>
       <p>
-        As a DevOps enthusiast, I live for automating workflows, deploying scalable applications,
-        and optimizing CI/CD pipelines. Nothing beats seeing your containers run smoothly
-        in production!
+        Nothing beats automating workflows, deploying containers, and seeing CI/CD pipelines run smoothly.
+        I’m constantly exploring new tools, cloud automation, and ways to make systems faster and more reliable.
       </p>
     </td>
     <td valign="middle" width="40%">
