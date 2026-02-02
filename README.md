@@ -1,8 +1,20 @@
 # 💻 **DevOps | DevSecOps | Cloud(AWS,Azure,Gcp) **
 
-I’m passionate about building scalable, reliable, and automated systems. I enjoy bridging the gap between development and operations by working with **Docker, Kubernetes, CI/CD workflows, and cloud platforms**.  
-
-Automation, monitoring, and collaboration are the pillars of my workflow. I love experimenting with new DevOps tools, optimizing pipelines, and deploying cloud-native applications.
+<table style="border: 2px solid #ccc; border-radius: 10px; padding: 10px;">
+  <tr>
+    <td valign="middle" width="60%">
+      <h3>Current Mood 🤖</h3>
+      <p>
+        As a DevOps enthusiast, I live for automating workflows, deploying scalable applications,
+        and optimizing CI/CD pipelines. Nothing beats seeing your containers run smoothly
+        in production!
+      </p>
+    </td>
+    <td valign="middle" width="40%">
+      <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXF0cXpzMmhvaG1kZXgzaGM5cmVnMWhjM3d2Y3gxNHB1eGpwbXY2ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mCRJDo24UvJMA/giphy.gif" width="200"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
