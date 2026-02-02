@@ -31,8 +31,9 @@ Automation, monitoring, and collaboration are the pillars of my workflow. I love
 ---
 
 ## 🤝 Let’s Connect
-I’m always open to collaboration on **DevOps projects, cloud automation, and full-stack applications**.  
+I’m always open to collaboration on **DevOps projects, DevSecOps , cloud automation, **.  
 
-📫 Contact: *your.email@example.com*  
-🌐 Portfolio: *https://yourportfolio.com*
+📫 Contact: *ay7509737@gmail.com*  
+🌐 Lindin: *https://www.linkedin.com/in/amanyadavvv/*
+
 
