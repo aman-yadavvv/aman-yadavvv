@@ -1,5 +1,9 @@
 # 💻 **DevOps | DevSecOps | Cloud(AWS,Azure,Gcp) **
 
+## Current Mood 🤖
+![DevOps Meme](https://raw.githubusercontent.com/aman-yadavvv/your-repo/main/assets/devops-meme.gif)
+
+
 
 I’m passionate about building scalable, reliable, and automated systems. I enjoy bridging the gap between development and operations by working with **Docker, Kubernetes, CI/CD workflows, and cloud platforms**.  
 
